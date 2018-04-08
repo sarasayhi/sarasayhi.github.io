@@ -61,7 +61,7 @@
     <link href="https://sarasayhi.github.io/2018/04/06/guide-to-build-blog/"/>
     <id>https://sarasayhi.github.io/2018/04/06/guide-to-build-blog/</id>
     <published>2018-04-06T11:50:27.000Z</published>
-    <updated>2018-04-07T15:39:51.006Z</updated>
+    <updated>2018-04-08T15:50:27.000Z</updated>
     
     <content type="html"><![CDATA[<p>来玩~~<br>搭建博客优先推荐<br>1.<a href="https://segmentfault.com/a/1190000008738089" target="_blank" rel="noopener">很方便的guide</a><br>2.<a href="https://github.com/theme-next" target="_blank" rel="noopener">集成插件</a><br>3.<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">很爱next这个主题</a><br>4.<a href="http://www.cnblogs.com/fengxiongZz/p/7707568.html" target="_blank" rel="noopener">其他guide</a><br>常用命令：<br>–更新文章到github<br>    hexo clean<br>    hexo g<br>    hexo d<br>–TODO list:<br>    1.继续搭建博客<br>    2.找回之前设计的导航栏设计<br>    3.画好技术栈蓝图</p><p>注意事项：<br>yml配置文件冒号后面不要有空格 不然匹配不到key-value的。</p>]]></content>
     
@@ -74,6 +74,10 @@
     
     </summary>
     
+      <category term="指南教程" scheme="https://sarasayhi.github.io/categories/%E6%8C%87%E5%8D%97%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="tech" scheme="https://sarasayhi.github.io/tags/tech/"/>
     
   </entry>
   
