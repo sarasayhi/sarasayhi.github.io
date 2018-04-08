@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MarissaMan</title>
+  
+  <subtitle>M‘s fantasy</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sarasayhi.github.io/"/>
+  <updated>2018-04-08T14:41:26.635Z</updated>
+  <id>https://sarasayhi.github.io/</id>
+  
+  <author>
+    <name>MarissaMan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ee</title>
+    <link href="https://sarasayhi.github.io/2018/04/08/ee/"/>
+    <id>https://sarasayhi.github.io/2018/04/08/ee/</id>
+    <published>2018-04-08T14:35:56.000Z</published>
+    <updated>2018-04-08T14:41:26.635Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="sth" scheme="https://sarasayhi.github.io/categories/sth/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://sarasayhi.github.io/2018/04/07/test/"/>
+    <id>https://sarasayhi.github.io/2018/04/07/test/</id>
+    <published>2018-04-07T15:49:42.000Z</published>
+    <updated>2018-04-07T15:50:36.131Z</updated>
+    
+    <content type="html"><![CDATA[<p>hey<br>test 4 count</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hey&lt;br&gt;test 4 count&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="fun" scheme="https://sarasayhi.github.io/tags/fun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>guide to build blog</title>
+    <link href="https://sarasayhi.github.io/2018/04/06/guide-to-build-blog/"/>
+    <id>https://sarasayhi.github.io/2018/04/06/guide-to-build-blog/</id>
+    <published>2018-04-06T11:50:27.000Z</published>
+    <updated>2018-04-07T15:39:51.006Z</updated>
+    
+    <content type="html"><![CDATA[<p>来玩~~<br>搭建博客优先推荐<br>1.<a href="https://segmentfault.com/a/1190000008738089" target="_blank" rel="noopener">很方便的guide</a><br>2.<a href="https://github.com/theme-next" target="_blank" rel="noopener">集成插件</a><br>3.<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">很爱next这个主题</a><br>4.<a href="http://www.cnblogs.com/fengxiongZz/p/7707568.html" target="_blank" rel="noopener">其他guide</a><br>常用命令：<br>–更新文章到github<br>    hexo clean<br>    hexo g<br>    hexo d<br>–TODO list:<br>    1.继续搭建博客<br>    2.找回之前设计的导航栏设计<br>    3.画好技术栈蓝图</p><p>注意事项：<br>yml配置文件冒号后面不要有空格 不然匹配不到key-value的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;来玩~~&lt;br&gt;搭建博客优先推荐&lt;br&gt;1.&lt;a href=&quot;https://segmentfault.com/a/1190000008738089&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;很方便的guide&lt;/a&gt;&lt;br&gt;2.&lt;a href=&quot;ht
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tst</title>
+    <link href="https://sarasayhi.github.io/2018/04/06/tst/"/>
+    <id>https://sarasayhi.github.io/2018/04/06/tst/</id>
+    <published>2018-04-06T11:17:45.000Z</published>
+    <updated>2018-04-06T11:19:03.457Z</updated>
+    
+    <content type="html"><![CDATA[<p>##test<br>hello m‘s fantasy!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##test&lt;br&gt;hello m‘s fantasy!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sarasayhi.github.io/2018/04/06/hello-world/"/>
+    <id>https://sarasayhi.github.io/2018/04/06/hello-world/</id>
+    <published>2018-04-06T10:53:12.733Z</published>
+    <updated>2018-04-06T10:53:12.733Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
