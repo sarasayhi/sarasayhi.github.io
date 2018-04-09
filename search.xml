@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[guide to build blog]]></title>
+    <url>%2F2018%2F04%2F06%2Fguide-to-build-blog%2F</url>
+    <content type="text"><![CDATA[来玩~~搭建博客优先推荐1.很方便的guide2.集成插件3.很爱next这个主题4.其他guide常用命令：–更新文章到github hexo clean hexo g hexo d–TODO list: 1.继续搭建博客 2.找回之前设计的导航栏设计 3.画好技术栈蓝图 注意事项：yml配置文件冒号后面不要有空格 不然匹配不到key-value的。 Date:2018/4/81.新增rss订阅 未完成2.新增社交账号3.新增外链4.新增统计功能5.新增打赏6.新增版权信息7.新增结束全文字体8.新增微信公众号二维码9.阅读全文10.本地搜索11.文章修改时间 ###Todo1.algolia_search2.评论系统3.访客统计 1.好好习惯md2.搜集之前收集的网站加资料3.设计好网站模块 关于我 技术栈 分享书单 当前项目 工具箱4.设计好自己的技术栈 统计仰望的大牛们 百度脑图等工具。 ###之后考虑新增的功能：1.DaoVoice 在线联系2.设置第三方JS库3.分享链接4.统计访客量以及文章阅读量 阅读次数统计（基于LeanCloud）5.添加文章评分功能6.文章排序优先级设置 推荐配置文章：1.hexo的next主题个性化教程:打造炫酷网站2.hexo搭建个人博客–NexT主题优化3.基础类说明部署-hexo搭建博客4.next主题官方说明5.next主题组织6.hexo官方说明]]></content>
+      <categories>
+        <category>指南教程</category>
+      </categories>
+      <tags>
+        <tag>tech</tag>
+      </tags>
+  </entry>
+</search>
